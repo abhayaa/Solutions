@@ -1,2 +1,2 @@
-#Java
-Solutions to Euler and other random problems 
+
+Solutions to Euler and other random problems in java
