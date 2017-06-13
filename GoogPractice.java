@@ -1,3 +1,9 @@
+Given a string S such as and intger K, return a serial number that rearranges the dash character to look like a serial number.
+For example: if S is "2-4A0r7-4k" and K = 4
+	return: 24A0-R74K
+If K = 3
+	return: 24-A0R-74K
+
 // you can also use imports, for example:
 // import java.util.*;
 
